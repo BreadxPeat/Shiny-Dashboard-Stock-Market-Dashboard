@@ -32,5 +32,6 @@ This app requires the following libraries to be installed:
 
 ![image](https://github.com/user-attachments/assets/e5178036-e399-457d-b5c1-78f974ea094f)
 
-
+# Acknowledgements
+This app was created using the shinydashboard package for Shiny by RStudio. It also uses the quantmod package for retrieving and manipulating financial data and the ggplot2 package for generating charts.
 
