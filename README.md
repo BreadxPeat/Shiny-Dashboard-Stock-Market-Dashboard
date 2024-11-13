@@ -24,3 +24,13 @@ This app requires the following libraries to be installed:
 5. The app will generate a chart of the stock's price and technical indicators.
 6. Switch to the "Comparisons" tab to compare the chosen stocks.
 7. Dashboard has Help tab in case you do not understand any term
+
+
+![image](https://github.com/user-attachments/assets/49d030b9-858e-49e6-a63d-c9111d8a3e03)
+
+![image](https://github.com/user-attachments/assets/a478d7e5-7de2-43ec-b0f7-885782255877)
+
+![image](https://github.com/user-attachments/assets/e5178036-e399-457d-b5c1-78f974ea094f)
+
+
+
